@@ -3,6 +3,7 @@
 | Document | Status |
 | --- | --- |
 | [`setup.md`](setup.md) | ready — send this to participants with the acceptance notice |
+| [`submitting-your-project.md`](submitting-your-project.md) | ready — send this (or attach it) once projects are ready to publish |
 
 ## Planned, not yet written
 
