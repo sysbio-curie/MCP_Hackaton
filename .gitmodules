@@ -1,0 +1,3 @@
+[submodule "hackathon_projects/snaptron-mcp"]
+	path = hackathon_projects/snaptron-mcp
+	url = https://github.com/RouOnions/mcp-snaptron.git
