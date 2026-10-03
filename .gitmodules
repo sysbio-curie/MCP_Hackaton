@@ -1,3 +1,7 @@
 [submodule "hackathon_projects/snaptron-mcp"]
 	path = hackathon_projects/snaptron-mcp
 	url = https://github.com/RouOnions/mcp-snaptron.git
+
+[submodule "hackathon_projects/medulloblast"]
+	path = hackathon_projects/medulloblast
+	url = https://github.com/cucumbermaster5000/MedulloBLAST.git
