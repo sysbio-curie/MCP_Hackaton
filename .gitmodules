@@ -5,3 +5,7 @@
 [submodule "hackathon_projects/r2-depmap-mcp"]
 	path = hackathon_projects/r2-depmap-mcp
 	url = https://github.com/cucumbermaster5000/r2-depmap-MCP.git
+
+[submodule "hackathon_projects/medulloblast"]
+	path = hackathon_projects/medulloblast
+	url = https://github.com/cucumbermaster5000/MedulloBLAST.git
